@@ -65,3 +65,67 @@
     background-attachment: fixed;
 }
 
+
+.container2 {
+    border-radius: 4px solid red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.The {
+    border-radius: 4px solid red;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-weight: bold;
+    font-size: 56px;
+    margin: 0 319.5px;
+    
+}
+
+.How {
+    border-radius: 4px solid red;
+    display: flex;
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 65px;
+    margin-bottom: 45px;
+}
+
+.pics {
+    border-radius: 4px solid red;
+    display: flex;
+    width: 854.828px;
+    height: 87px;
+    margin: 100px 20px 159.086px 159.086px;
+    justify-content: space-evenly;
+
+}
+
+.icon {
+    border-radius: 4px solid red;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    margin: 0 60px;
+    font-size: 14px;
+    font-weight: bold;
+
+
+}
+
+.icon img{
+    height:7em;
+    width: auto;
+    justify-self: center;
+}
+
+#find img {
+    height:5em;
+    margin: 1em auto;
+}
+
+.Best {
+    margin-top: 70px;
+}
